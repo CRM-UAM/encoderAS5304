@@ -9,6 +9,6 @@ Salida: doble señal de cuadratura con los canales A y B
 
 ![PCB](img/pcb.png "PCB")
 
-![Placa 3D T](img/board3D_t.png "Placa 3D T”)
+![Placa 3D Top](img/top3D.png "Placa 3D Top”)
 
-![Placa 3D B](img/board3D_b.png "Placa 3D B”)
+![Placa 3D Bottom](img/bottom3D.png "Placa 3D Bottom”)
