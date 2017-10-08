@@ -1,6 +1,6 @@
-update=sábado, 12 '12e' noviembre '12e' 2016, 20:04:51
+update=lunes, 09 '09e' octubre '09e' 2017, 01:14:02
 version=1
-last_client=kicad
+last_client=pcbnew
 [cvpcb]
 version=1
 NetIExt=net
@@ -43,7 +43,7 @@ LibName30=lib/kicad/as5304
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=encodersAS5304_6.net
+LastNetListRead=encodersAS5304.net
 PadDrill=0.762
 PadDrillOvalY=0.762
 PadSizeH=1.524
